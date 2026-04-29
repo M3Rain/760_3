@@ -1,0 +1,23 @@
+# JSON files
+*.json
+
+# PDF files
+*.pdf
+
+# CSV files
+*.csv
+
+
+# Text files
+*.txt
+
+# PNG files
+*.png
+
+# Python files
+*.py
+*.pyc
+*.pyo
+*.pyd
+__pycache__/
+*.pycache
